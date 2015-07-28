@@ -1,0 +1,9 @@
+{
+  "name": "karma-with-es6",
+  "dependencies": {
+    "karma": "~0.13.3",
+    "karma-jasmine": "~0.3.6",
+    "karma-chrome-launcher": "~0.2.0",
+    "karma-babel-preprocessor": "~5.2.1"
+  }
+}
