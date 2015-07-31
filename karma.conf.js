@@ -12,7 +12,6 @@ module.exports = function(config) {
     frameworks: ['jasmine', 'requirejs'],
 
     preprocessors: {
-      'src/*.js': ['babel'],
       'test/*.js': ['babel']
     },
     babelPreprocessor: {

@@ -17,7 +17,9 @@ require.config({
   baseUrl: '/base',
 
   paths: {
-    'browser-source-map-support': 'lib/browser-source-map-support'
+    'browser-source-map-support': 'lib/browser-source-map-support',
+    'es6': 'lib/es6',
+    'babel': 'lib/babel-4.6.6.min'
   },
 
   // dynamically load all test files
